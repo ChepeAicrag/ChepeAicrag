@@ -54,7 +54,11 @@ Welcome to my GitHub! I'm Computer Systems Engineering student at the Instituto 
 
 
 ## ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-garc%C3%ADa-garc%C3%ADa/">Jose Angel</a>
-- Twitter: <a href = "https://twitter.com/ChepeAicrag12">ChepeAicrag12</a>
-- Instagram: <a href = "https://www.instagram.com/chepeaicrag/">chepeaicrag</a>
-- Facebook: <a href = "https://www.facebook.com/ChepeAicrag.0/">Chepe Aicrag</a>
+
+<a href = "https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-garc%C3%ADa-garc%C3%ADa/"><img align="left" alt="José Ángel García" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+
+<a href = "https://twitter.com/ChepeAicrag12"><img align="left" alt="ChepeAicrag12 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+
+<a href = "https://www.instagram.com/chepeaicrag/"><img align="left" alt="Ángel García | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/></a>
+
+<a href = "https://www.facebook.com/ChepeAicrag.0/"><img align="left" alt="Ángel García | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" /></a>
