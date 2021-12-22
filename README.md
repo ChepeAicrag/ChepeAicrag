@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm Computer Systems Engineering student at the Instituto 
 
 ## ✔️ I'm currently learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://mirayhazlo.com/wp-content/uploads/2019/07/node-logo.png" alt="ts logo](https://ugeek.github.io/blog/images-blog/node.png)" width="40">](https://nodejs.org/es/)|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://mirayhazlo.com/wp-content/uploads/2019/07/node-logo.png" alt="ts logo](https://ugeek.github.io/blog/images-blog/node.png)" width="40">](https://nodejs.org/es/) | [<img src="https://www.django-rest-framework.org/img/logo.png" alt="ts logo](https://ugeek.github.io/blog/images-blog/node.png)" width="40">](https://www.django-rest-framework.org/) |
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
