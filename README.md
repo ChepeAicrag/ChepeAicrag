@@ -52,6 +52,8 @@ Welcome to my GitHub! I'm Computer Systems Engineering student at the Instituto 
   </tbody>
 </table>
 
+![ChepeAicrag's github stats](https://github-readme-stats.vercel.app/api?username=ChepeAicrag&show_icons=true&line_height=30)
+
 
 ## ☕ Get in touch
 
