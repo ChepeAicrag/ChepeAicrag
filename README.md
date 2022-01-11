@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 -->
 
 # JOSÉ ÁNGEL GARCÍA GARCÍA 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://github.com/ChepeAicrag/ChepeAicrag/blob/master/Developer.gif" width="230">
 
 Welcome to my GitHub! I'm Computer Systems Engineering student at the Instituto Tecnológico de México campus Oaxaca (TecNM / ITO)
 
