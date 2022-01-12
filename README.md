@@ -41,8 +41,9 @@ Welcome to my GitHub! I'm Computer Systems Engineering student at the Instituto 
 
 <a><img src="https://github.com/ChepeAicrag/ChepeAicrag/blob/master/assets/coffee.png" align="right" height="275" /></a>
 
-![ChepeAicrag's github stats](https://github-readme-stats.vercel.app/api?username=ChepeAicrag&show_icons=true&line_height=30)
+![ChepeAicrag's github stats](https://github-readme-stats.vercel.app/api?username=ChepeAicrag&show_icons=true&line_height=30&theme=radical)
 
+<img src="https://github.com/ChepeAicrag/ChepeAicrag/blob/master/assets/dino_rounded.gif?raw=true" href="https://github.com/ChepeAicrag" />
 
 ## ☕ Get in touch
 
