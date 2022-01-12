@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github.com/ChepeAicrag/ChepeAicrag/blob/master/assets/hellocoders_rounded.gif?raw=true" align="center" href="https://github.com/ChepeAicrag" alt="Hello Coders" width="625"/> <br>
-
 # JOSÉ ÁNGEL GARCÍA GARCÍA 
 
 <img align='right' src="https://github.com/ChepeAicrag/ChepeAicrag/blob/master/assets/Developer.gif" width="230">
