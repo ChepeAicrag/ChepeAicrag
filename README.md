@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# JOSÉ ÁNGEL GARCÍA GARCÍA 
+## JOSÉ ÁNGEL GARCÍA GARCÍA 
 
 <img align='right' src="https://github.com/ChepeAicrag/ChepeAicrag/blob/master/assets/Developer.gif" width="230">
 
