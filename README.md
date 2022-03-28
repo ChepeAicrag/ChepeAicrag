@@ -51,4 +51,4 @@ Welcome to my GitHub! I'm Computer Systems Engineering student at the Instituto 
 
 <a href = "https://www.instagram.com/chepeaicrag/"><img align="left" alt="Ángel García | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/></a>
 
-<a href = "https://www.facebook.com/ChepeAicrag.0/"><img align="left" alt="Ángel García | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" /></a>
+<a href = "https://www.facebook.com/ChepeAicrag.0/"><img align="left" alt="Ángel García | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" /></a>
