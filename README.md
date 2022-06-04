@@ -4,7 +4,7 @@
 
 <img align='right' src="https://github.com/ChepeAicrag/ChepeAicrag/blob/master/assets/Developer.gif" width="230">
 
-Welcome to my GitHub! I'm Computer Systems Engineering student at the Instituto Tecnológico de México campus Oaxaca (ITO)
+Welcome to my GitHub! I'm Computer Systems Engineering student at the TecNM campus Oaxaca
 
 ## ✔️ I'm currently learning
 
