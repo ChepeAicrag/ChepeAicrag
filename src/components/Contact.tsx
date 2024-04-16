@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import { useState } from "react";
 
 interface Body {
@@ -9,9 +8,9 @@ interface Body {
 }
 
 export default function Contact() {
-  const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
-  const [message, setMessage] = useState("");
+  const [name, _] = useState("");
+  const [email, __] = useState("");
+  const [message, ___] = useState("");
 
   function encode(data: Body) {
     return Object.keys(data)
