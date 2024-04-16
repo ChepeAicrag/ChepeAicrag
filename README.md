@@ -45,10 +45,15 @@ Welcome to my GitHub! I'm Computer Systems Engineering student at the TecNM camp
 
 ## ☕ Get in touch
 
-<a href = "https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-garc%C3%ADa-garc%C3%ADa/"><img align="left" alt="José Ángel García" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<div style="display: flex; flex-wrap: wrap;">
 
-<a href = "https://twitter.com/ChepeAicrag12"><img align="left" alt="ChepeAicrag12 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<a class="flex: 1 0 21%; margin: 5px;" href = "https://www.linkedin.com/in/jose-angel-garcia-garcia/"><img align="left" alt="José Ángel García" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
 
-<a href = "https://www.instagram.com/chepeaicrag/"><img align="left" alt="Ángel García | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/></a>
+<a class="flex: 1 0 21%; margin: 5px;" href = "https://twitter.com/ChepeAicrag12"><img align="left" alt="ChepeAicrag12 | Twitter" width="25px" src="https://raw.githubusercontent.com/johan/svg-cleanups/5bac1ce84167c62770c481146e3511d22a2931c5/logos/twitter.svg" /></a>
 
-<a href = "https://www.facebook.com/ChepeAicrag.0/"><img align="left" alt="Ángel García | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" /></a>
+<a class="flex: 1 0 21%; margin: 5px;" href = "https://www.instagram.com/chepeaicrag/"><img align="left" alt="Ángel García | Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/></a>
+
+<a class="flex: 1 0 21%; margin: 5px;" href = "https://www.facebook.com/ChepeAicrag.0/"><img align="left" alt="Ángel García | Facebook" width="25px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" /></a>
+
+</div>
+
